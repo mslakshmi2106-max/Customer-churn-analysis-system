@@ -28,3 +28,5 @@ Methodology
 Conclusion
 
 This project helps in understanding customer churn behavior and provides insights for better decision-making.
+<img width="832" height="472" alt="image" src="https://github.com/user-attachments/assets/4c4208f4-25ee-4d79-a31e-dd518db7ad75" />
+
