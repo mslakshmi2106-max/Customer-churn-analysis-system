@@ -32,4 +32,5 @@ This project helps in understanding customer churn behavior and provides insight
 <img width="877" height="449" alt="image" src="https://github.com/user-attachments/assets/33479e7f-3bcc-433d-9450-471476a5cd8b" />
 <img width="858" height="467" alt="image" src="https://github.com/user-attachments/assets/51b81ab3-ebaf-437a-9e90-3c213e2bff61" />
 <img width="858" height="467" alt="image" src="https://github.com/user-attachments/assets/c78cea2f-af81-4f99-a548-e446d506a01d" />
+<img width="892" height="499" alt="image" src="https://github.com/user-attachments/assets/2740ed07-882a-421a-b55b-0b1c1c8e1972" />
 
